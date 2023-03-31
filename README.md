@@ -1,13 +1,47 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006d77&height=120&section=header"/>
+### Oie devs 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=83c5be&size=35&center=true&vCenter=true&width=1000&lines=Olá+me+chamo+Fellipe+T+Petini;Seja+bem+vindo+ao+meu+GitHub;Estou+Começando+Agora^^;Seja+Muito+Bem-Vindo+ou+Bem-Vinda!)](https://git.io/typing-svg)
+Um universitario em busca de conhecimento.. venha ver minha trajetoria 
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FellipePetini&show_icons=true&count_private=true&hide_border=true&title_color=83c5be&icon_color=006d77&text_color=c9d1d9&bg_color=0d1117" alt="Fellipe Petini github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FellipePetini&layout=compact&hide_border=true&title_color=83c5be&text_color=c9d1d9&bg_color=0d1117" />
-</div>
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
+```kotlin
+object FellipePetini {
+ val name = "Fellipe T. Petini"
+ val acknowledgements = "Sistema da computação"
+
+ val languages = listOf("Java", "Python", "JavaScript", "Kotlin", "React") 
+
+}
+```
+
+## **Linguagens e Ferramentas:**  
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=FellipePetini&bg_color=0d1117&color=83c5be&title_color=83c5be&line=006d77&point=c9d1d9&area=true&area_color=006d77&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## **GitHub Estatísticas**
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006d77&height=120&section=footer"/>
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="FellipePetini github stats"/>
+</a>
+
+[instagram]: https://www.instagram.com/@fellipetini/
+[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/](https://www.linkedin.com/in/fellipe-t-petini-65b7b91b8/
+
+<br>
+
