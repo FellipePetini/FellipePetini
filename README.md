@@ -1,6 +1,6 @@
 ### Oie devs 👋
 
-Um universitario em busca de conhecimento.. venha ver minha trajetoria 
+Apenas um universitario em busca de conhecimento.. venha ver minha trajetoria 
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
@@ -11,6 +11,7 @@ Aqui você vai ver um iniciante em programação
 aprendendo as poucos como e dificil mas satisfatorio conquistar mais e mais 
 conhecimentos na área da computação !! ^-^
 
+Atualmente estudando na UFF SI
 ```
 
 ## **Linguagens e Ferramentas:**  
@@ -24,11 +25,11 @@ conhecimentos na área da computação !! ^-^
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FellipePetini&theme=dracula&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="FellipePetini github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=FellipePetini&show_icons=true&theme=dracula&line_height=27" alt="FellipePetini github stats"/>
 </a>
 
 [instagram]: https://www.instagram.com/@fellipetini/
